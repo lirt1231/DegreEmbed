@@ -1,0 +1,10 @@
+# VSCode directory
+.vscode
+
+# Python cache
+__pycache__
+.ipynb_checkpoints
+
+# Generated files and logs
+saved*
+*.log
